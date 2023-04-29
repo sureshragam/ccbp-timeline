@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.row > h1 {
+  color: #171f46;
+  font-weight: bold;
+}
+.tags-list-container {
+  padding-left: 0;
+  display: flex;
+  justify-content: flex-start;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+.tags-list-container > p {
+  display: inline-block;
+  list-style-type: none;
+  background-color: #cccaca;
+  padding: 5px 10px;
+  color: #171f46;
+  font-weight: bold;
+}

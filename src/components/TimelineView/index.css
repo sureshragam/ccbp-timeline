@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.timeline-view-container {
+  height: 100vh;
+}
+.timeline-view-container > h1 {
+  text-align: center;
+  color: #1e293b;
+}
+.timeline-view-container > .heading {
+  color: #2b237c;
+  margin-bottom: 50px;
+}
+.chrono-container {
+  width: 80%;
+  height: 80vh;
+  margin: auto;
+}

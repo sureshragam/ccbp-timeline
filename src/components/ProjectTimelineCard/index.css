@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.project-timeline-card > img {
+  width: 100%;
+}
+a {
+  color: #0967d2;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+}
+.row > div {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
